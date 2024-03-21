@@ -31,9 +31,9 @@
                                             <strong>Ropa</strong>
                                         </a>
                                         <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item">Carhartt</a></li>
-                                            <li><a class="dropdown-item">NudeProject</a></li>
-                                            <li><a class="dropdown-item">FakeGods</a></li>
+                                            <li><a class="dropdown-item">Sudaderas</a></li>
+                                            <li><a class="dropdown-item">Camisetas</a></li>
+                                            <li><a class="dropdown-item">Pantalones</a></li>
                                             
                                         </ul>
                                     </li>
@@ -50,7 +50,7 @@
                         <div class="container-fluid justify-content-center">
                             <ul class="nav">
                                 <li class="nav-item">
-                                    <a class="navbar-brand" href="tiendaropa.html">
+                                    <a class="navbar-brand" href="">
                                         <img class="my-1" src="img/logo.jpg" alt="" height="40px"/>
                                     </a>
                                 </li>
@@ -77,13 +77,7 @@
                             </ul>
                         </div>
                     </nav>
-                    <nav class="navbar navbar-expand-sm bg-warning fixed-bottom">
-                        <div class="container justify-content-center mx-auto">
-                            <div class="col-xl-7 text-xl-center text-white">
-                                <h6><strong>ENVÍOS: ESPAÑA (2-3 DÍAS) | RESTO DEL MUNDO (4-7 DÍAS)</strong></h6>
-                            </div>
-                        </div>
-                    </nav>
+                    
                 </header>
                 <main>
                     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2500">
@@ -115,19 +109,19 @@
                     <div class=" navbar-expand-sm bg-light">
                         <div class="container justify-content-start mx-auto">
                             <div>
-                                <a class="navbar-brand" href="tiendaropa.html">
+                                <a class="navbar-brand">
                                     <img src="img/logonude.png" alt="" height="60px"/>
                                 </a>
                             </div>
                         </div>
                     </div>
-                    <div class="row mt-4 justify-content-center w-50">
+                    <div class="row mt-1 mx-1 justify-content-center w-70 ">
                         <xsl:for-each select="tienda/sudadera">
-                            <div class="col-xl-3 col-md-6 mb-3">
-                                <div class="card">
-                                    <img class="card-img-top" src="{foto2}" alt=""/>
+                            <div class="col-xl-3 col-md-6 mb-3 ">
+                                <div class="card rounded-0">
+                                    <img class="card-img-top" src="{foto}" alt=""/>
                                     <div class="card-body">
-                                        <h4 class="card-title"><xsl:value-of select="nombre"/></h4>
+                                        <h4 class="card-title "><strong><xsl:value-of select="nombre"/></strong></h4>
                                         <p class="card-text"><xsl:value-of select="precio"/>€</p>
                                     </div>
                                 </div>
@@ -138,7 +132,13 @@
                     
                 </main>
                 <footer>
-                    
+                    <nav class="navbar navbar-expand-sm bg-warning">
+                        <div class="container justify-content-center mx-auto">
+                            <div class="col-xl-7 text-xl-center text-white">
+                                <h6 class= "mt-3"><strong>ENVÍOS: ESPAÑA (2-3 DÍAS) | RESTO DEL MUNDO (4-7 DÍAS)</strong></h6>
+                            </div>
+                        </div>
+                    </nav>
                 </footer>
                 
                 
