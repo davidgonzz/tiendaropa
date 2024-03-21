@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylefake.xsl" type="text/xsl"?>
+<tienda>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/D20715D2-F05E-4F6D-98C1-AA321AB3A63F.jpg?v=1710328907&amp;width=532|//fakegodsbrand.com/cdn/shop/files/54642E3B-6B5E-4D70-B61F-A6C51B2F4454.jpg?v=1710328907&amp;width=532</foto>
+    <nombre>EXPANDING IT HOODIE GREEN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;GREEN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/140C6FFB-6F8F-43F2-8FDF-9284033D8DE9.jpg?v=1710328700&amp;width=532|//fakegodsbrand.com/cdn/shop/files/7B5A6859-5E97-4932-98F3-CE89DA1B05A6.jpg?v=1710328700&amp;width=532</foto>
+    <nombre>STAR HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/00D218AB-9756-4211-8CFF-FAD5AC4559E2.jpg?v=1710328973&amp;width=532|//fakegodsbrand.com/cdn/shop/files/09124112-4C7B-478D-8C68-F6C2E4235CE9.jpg?v=1710328972&amp;width=532</foto>
+    <nombre>STAR HOODIE NAVY</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;NAVY&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-FRONT.jpg?v=1706516856&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-BACK.jpg?v=1706516856&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-FRONT.jpg?v=1706516842&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-BLACK.jpg?v=1706516841&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-BACK.jpg?v=1707236849&amp;width=532|//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-FRONT.jpg?v=1707236849&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S 24 HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-BACK.jpg?v=1706272520&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-FRONT.jpg?v=1706272520&amp;width=532</foto>
+    <nombre>STAR HOODIE BsudaderaN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BsudaderaN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-BACK.jpg?v=1706272649&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-FRONT.jpg?v=1706272649&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S HOODIE KHAKI</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;KHAKI&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/D20715D2-F05E-4F6D-98C1-AA321AB3A63F.jpg?v=1710328907&amp;width=532|//fakegodsbrand.com/cdn/shop/files/54642E3B-6B5E-4D70-B61F-A6C51B2F4454.jpg?v=1710328907&amp;width=532</foto>
+    <nombre>EXPANDING IT HOODIE GREEN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;GREEN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/140C6FFB-6F8F-43F2-8FDF-9284033D8DE9.jpg?v=1710328700&amp;width=532|//fakegodsbrand.com/cdn/shop/files/7B5A6859-5E97-4932-98F3-CE89DA1B05A6.jpg?v=1710328700&amp;width=532</foto>
+    <nombre>STAR HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/00D218AB-9756-4211-8CFF-FAD5AC4559E2.jpg?v=1710328973&amp;width=532|//fakegodsbrand.com/cdn/shop/files/09124112-4C7B-478D-8C68-F6C2E4235CE9.jpg?v=1710328972&amp;width=532</foto>
+    <nombre>STAR HOODIE NAVY</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;NAVY&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-FRONT.jpg?v=1706516856&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-BACK.jpg?v=1706516856&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-FRONT.jpg?v=1706516842&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-BLACK.jpg?v=1706516841&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-BACK.jpg?v=1707236849&amp;width=532|//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-FRONT.jpg?v=1707236849&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S 24 HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-BACK.jpg?v=1706272520&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-FRONT.jpg?v=1706272520&amp;width=532</foto>
+    <nombre>STAR HOODIE BsudaderaN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BsudaderaN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-BACK.jpg?v=1706272649&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-FRONT.jpg?v=1706272649&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S HOODIE KHAKI</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;KHAKI&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/D20715D2-F05E-4F6D-98C1-AA321AB3A63F.jpg?v=1710328907&amp;width=532|//fakegodsbrand.com/cdn/shop/files/54642E3B-6B5E-4D70-B61F-A6C51B2F4454.jpg?v=1710328907&amp;width=532</foto>
+    <nombre>EXPANDING IT HOODIE GREEN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;GREEN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/140C6FFB-6F8F-43F2-8FDF-9284033D8DE9.jpg?v=1710328700&amp;width=532|//fakegodsbrand.com/cdn/shop/files/7B5A6859-5E97-4932-98F3-CE89DA1B05A6.jpg?v=1710328700&amp;width=532</foto>
+    <nombre>STAR HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/00D218AB-9756-4211-8CFF-FAD5AC4559E2.jpg?v=1710328973&amp;width=532|//fakegodsbrand.com/cdn/shop/files/09124112-4C7B-478D-8C68-F6C2E4235CE9.jpg?v=1710328972&amp;width=532</foto>
+    <nombre>STAR HOODIE NAVY</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;NAVY&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-FRONT.jpg?v=1706516856&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-BACK.jpg?v=1706516856&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-FRONT.jpg?v=1706516842&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-BLACK.jpg?v=1706516841&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-BACK.jpg?v=1707236849&amp;width=532|//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-FRONT.jpg?v=1707236849&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S 24 HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-BACK.jpg?v=1706272520&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-FRONT.jpg?v=1706272520&amp;width=532</foto>
+    <nombre>STAR HOODIE BsudaderaN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BsudaderaN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-BACK.jpg?v=1706272649&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-FRONT.jpg?v=1706272649&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S HOODIE KHAKI</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;KHAKI&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/D20715D2-F05E-4F6D-98C1-AA321AB3A63F.jpg?v=1710328907&amp;width=532|//fakegodsbrand.com/cdn/shop/files/54642E3B-6B5E-4D70-B61F-A6C51B2F4454.jpg?v=1710328907&amp;width=532</foto>
+    <nombre>EXPANDING IT HOODIE GREEN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;GREEN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/140C6FFB-6F8F-43F2-8FDF-9284033D8DE9.jpg?v=1710328700&amp;width=532|//fakegodsbrand.com/cdn/shop/files/7B5A6859-5E97-4932-98F3-CE89DA1B05A6.jpg?v=1710328700&amp;width=532</foto>
+    <nombre>STAR HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/00D218AB-9756-4211-8CFF-FAD5AC4559E2.jpg?v=1710328973&amp;width=532|//fakegodsbrand.com/cdn/shop/files/09124112-4C7B-478D-8C68-F6C2E4235CE9.jpg?v=1710328972&amp;width=532</foto>
+    <nombre>STAR HOODIE NAVY</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;NAVY&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-FRONT.jpg?v=1706516856&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-BACK.jpg?v=1706516856&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-FRONT.jpg?v=1706516842&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-BLACK.jpg?v=1706516841&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-BACK.jpg?v=1707236849&amp;width=532|//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-FRONT.jpg?v=1707236849&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S 24 HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-BACK.jpg?v=1706272520&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-FRONT.jpg?v=1706272520&amp;width=532</foto>
+    <nombre>STAR HOODIE BsudaderaN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BsudaderaN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-BACK.jpg?v=1706272649&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-FRONT.jpg?v=1706272649&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S HOODIE KHAKI</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;KHAKI&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/D20715D2-F05E-4F6D-98C1-AA321AB3A63F.jpg?v=1710328907&amp;width=532|//fakegodsbrand.com/cdn/shop/files/54642E3B-6B5E-4D70-B61F-A6C51B2F4454.jpg?v=1710328907&amp;width=532</foto>
+    <nombre>EXPANDING IT HOODIE GREEN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;GREEN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/140C6FFB-6F8F-43F2-8FDF-9284033D8DE9.jpg?v=1710328700&amp;width=532|//fakegodsbrand.com/cdn/shop/files/7B5A6859-5E97-4932-98F3-CE89DA1B05A6.jpg?v=1710328700&amp;width=532</foto>
+    <nombre>STAR HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/00D218AB-9756-4211-8CFF-FAD5AC4559E2.jpg?v=1710328973&amp;width=532|//fakegodsbrand.com/cdn/shop/files/09124112-4C7B-478D-8C68-F6C2E4235CE9.jpg?v=1710328972&amp;width=532</foto>
+    <nombre>STAR HOODIE NAVY</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;NAVY&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-FRONT.jpg?v=1706516856&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-BACK.jpg?v=1706516856&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-FRONT.jpg?v=1706516842&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-BLACK.jpg?v=1706516841&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-BACK.jpg?v=1707236849&amp;width=532|//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-FRONT.jpg?v=1707236849&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S 24 HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-BACK.jpg?v=1706272520&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-FRONT.jpg?v=1706272520&amp;width=532</foto>
+    <nombre>STAR HOODIE BsudaderaN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BsudaderaN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-BACK.jpg?v=1706272649&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-FRONT.jpg?v=1706272649&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S HOODIE KHAKI</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;KHAKI&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/D20715D2-F05E-4F6D-98C1-AA321AB3A63F.jpg?v=1710328907&amp;width=532|//fakegodsbrand.com/cdn/shop/files/54642E3B-6B5E-4D70-B61F-A6C51B2F4454.jpg?v=1710328907&amp;width=532</foto>
+    <nombre>EXPANDING IT HOODIE GREEN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;GREEN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/140C6FFB-6F8F-43F2-8FDF-9284033D8DE9.jpg?v=1710328700&amp;width=532|//fakegodsbrand.com/cdn/shop/files/7B5A6859-5E97-4932-98F3-CE89DA1B05A6.jpg?v=1710328700&amp;width=532</foto>
+    <nombre>STAR HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/00D218AB-9756-4211-8CFF-FAD5AC4559E2.jpg?v=1710328973&amp;width=532|//fakegodsbrand.com/cdn/shop/files/09124112-4C7B-478D-8C68-F6C2E4235CE9.jpg?v=1710328972&amp;width=532</foto>
+    <nombre>STAR HOODIE NAVY</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;NAVY&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-FRONT.jpg?v=1706516856&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-BACK.jpg?v=1706516856&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-FRONT.jpg?v=1706516842&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-BLACK.jpg?v=1706516841&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-BACK.jpg?v=1707236849&amp;width=532|//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-FRONT.jpg?v=1707236849&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S 24 HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-BACK.jpg?v=1706272520&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-FRONT.jpg?v=1706272520&amp;width=532</foto>
+    <nombre>STAR HOODIE BsudaderaN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BsudaderaN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-BACK.jpg?v=1706272649&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-FRONT.jpg?v=1706272649&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S HOODIE KHAKI</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;KHAKI&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/D20715D2-F05E-4F6D-98C1-AA321AB3A63F.jpg?v=1710328907&amp;width=532|//fakegodsbrand.com/cdn/shop/files/54642E3B-6B5E-4D70-B61F-A6C51B2F4454.jpg?v=1710328907&amp;width=532</foto>
+    <nombre>EXPANDING IT HOODIE GREEN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;GREEN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/140C6FFB-6F8F-43F2-8FDF-9284033D8DE9.jpg?v=1710328700&amp;width=532|//fakegodsbrand.com/cdn/shop/files/7B5A6859-5E97-4932-98F3-CE89DA1B05A6.jpg?v=1710328700&amp;width=532</foto>
+    <nombre>STAR HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/00D218AB-9756-4211-8CFF-FAD5AC4559E2.jpg?v=1710328973&amp;width=532|//fakegodsbrand.com/cdn/shop/files/09124112-4C7B-478D-8C68-F6C2E4235CE9.jpg?v=1710328972&amp;width=532</foto>
+    <nombre>STAR HOODIE NAVY</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;NAVY&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-FRONT.jpg?v=1706516856&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-BACK.jpg?v=1706516856&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-FRONT.jpg?v=1706516842&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-BLACK.jpg?v=1706516841&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-BACK.jpg?v=1707236849&amp;width=532|//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-FRONT.jpg?v=1707236849&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S 24 HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-BACK.jpg?v=1706272520&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-FRONT.jpg?v=1706272520&amp;width=532</foto>
+    <nombre>STAR HOODIE BsudaderaN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BsudaderaN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-BACK.jpg?v=1706272649&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-FRONT.jpg?v=1706272649&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S HOODIE KHAKI</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;KHAKI&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/D20715D2-F05E-4F6D-98C1-AA321AB3A63F.jpg?v=1710328907&amp;width=532|//fakegodsbrand.com/cdn/shop/files/54642E3B-6B5E-4D70-B61F-A6C51B2F4454.jpg?v=1710328907&amp;width=532</foto>
+    <nombre>EXPANDING IT HOODIE GREEN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;GREEN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/140C6FFB-6F8F-43F2-8FDF-9284033D8DE9.jpg?v=1710328700&amp;width=532|//fakegodsbrand.com/cdn/shop/files/7B5A6859-5E97-4932-98F3-CE89DA1B05A6.jpg?v=1710328700&amp;width=532</foto>
+    <nombre>STAR HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/00D218AB-9756-4211-8CFF-FAD5AC4559E2.jpg?v=1710328973&amp;width=532|//fakegodsbrand.com/cdn/shop/files/09124112-4C7B-478D-8C68-F6C2E4235CE9.jpg?v=1710328972&amp;width=532</foto>
+    <nombre>STAR HOODIE NAVY</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;NAVY&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-FRONT.jpg?v=1706516856&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-BACK.jpg?v=1706516856&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-FRONT.jpg?v=1706516842&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-BLACK.jpg?v=1706516841&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-BACK.jpg?v=1707236849&amp;width=532|//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-FRONT.jpg?v=1707236849&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S 24 HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-BACK.jpg?v=1706272520&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-FRONT.jpg?v=1706272520&amp;width=532</foto>
+    <nombre>STAR HOODIE BsudaderaN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BsudaderaN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-BACK.jpg?v=1706272649&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-FRONT.jpg?v=1706272649&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S HOODIE KHAKI</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;KHAKI&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/D20715D2-F05E-4F6D-98C1-AA321AB3A63F.jpg?v=1710328907&amp;width=532|//fakegodsbrand.com/cdn/shop/files/54642E3B-6B5E-4D70-B61F-A6C51B2F4454.jpg?v=1710328907&amp;width=532</foto>
+    <nombre>EXPANDING IT HOODIE GREEN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;GREEN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/140C6FFB-6F8F-43F2-8FDF-9284033D8DE9.jpg?v=1710328700&amp;width=532|//fakegodsbrand.com/cdn/shop/files/7B5A6859-5E97-4932-98F3-CE89DA1B05A6.jpg?v=1710328700&amp;width=532</foto>
+    <nombre>STAR HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/00D218AB-9756-4211-8CFF-FAD5AC4559E2.jpg?v=1710328973&amp;width=532|//fakegodsbrand.com/cdn/shop/files/09124112-4C7B-478D-8C68-F6C2E4235CE9.jpg?v=1710328972&amp;width=532</foto>
+    <nombre>STAR HOODIE NAVY</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;NAVY&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-FRONT.jpg?v=1706516856&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-BACK.jpg?v=1706516856&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-FRONT.jpg?v=1706516842&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-BLACK.jpg?v=1706516841&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-BACK.jpg?v=1707236849&amp;width=532|//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-FRONT.jpg?v=1707236849&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S 24 HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-BACK.jpg?v=1706272520&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-FRONT.jpg?v=1706272520&amp;width=532</foto>
+    <nombre>STAR HOODIE BsudaderaN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BsudaderaN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-BACK.jpg?v=1706272649&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-FRONT.jpg?v=1706272649&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S HOODIE KHAKI</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;KHAKI&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/D20715D2-F05E-4F6D-98C1-AA321AB3A63F.jpg?v=1710328907&amp;width=532|//fakegodsbrand.com/cdn/shop/files/54642E3B-6B5E-4D70-B61F-A6C51B2F4454.jpg?v=1710328907&amp;width=532</foto>
+    <nombre>EXPANDING IT HOODIE GREEN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;GREEN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/140C6FFB-6F8F-43F2-8FDF-9284033D8DE9.jpg?v=1710328700&amp;width=532|//fakegodsbrand.com/cdn/shop/files/7B5A6859-5E97-4932-98F3-CE89DA1B05A6.jpg?v=1710328700&amp;width=532</foto>
+    <nombre>STAR HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/00D218AB-9756-4211-8CFF-FAD5AC4559E2.jpg?v=1710328973&amp;width=532|//fakegodsbrand.com/cdn/shop/files/09124112-4C7B-478D-8C68-F6C2E4235CE9.jpg?v=1710328972&amp;width=532</foto>
+    <nombre>STAR HOODIE NAVY</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;NAVY&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-FRONT.jpg?v=1706516856&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-NEGRA-BACK.jpg?v=1706516856&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-FRONT.jpg?v=1706516842&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOODIE-BLANCA-BLACK.jpg?v=1706516841&amp;width=532</foto>
+    <nombre>INTERLOCK HOODIE CREAM</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;CREAM&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-BACK.jpg?v=1707236849&amp;width=532|//fakegodsbrand.com/cdn/shop/files/SUDADERA-NEGRA-FRONT.jpg?v=1707236849&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S 24 HOODIE BLACK</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€75,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BLACK&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-BACK.jpg?v=1706272520&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-FRONT.jpg?v=1706272520&amp;width=532</foto>
+    <nombre>STAR HOODIE BsudaderaN</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;BsudaderaN&lt;/span&gt;</color>
+  </sudadera>
+  <sudadera>
+    <foto>//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-BACK.jpg?v=1706272649&amp;width=532|//fakegodsbrand.com/cdn/shop/files/HOOD-MARRON-CAQUI-FRONT.jpg?v=1706272649&amp;width=532</foto>
+    <nombre>VALENTINE&apos;S HOODIE KHAKI</nombre>
+    <precio>&lt;span class=&quot;sr-only&quot;&gt;Precio de oferta&lt;/span&gt;€74,00</precio>
+    <color>&lt;span class=&quot;sr-only&quot;&gt;KHAKI&lt;/span&gt;</color>
+  </sudadera>
+</tienda>
