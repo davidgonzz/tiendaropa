@@ -16,12 +16,17 @@
                 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
                       integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
-                
+                <link rel="stylesheet" href="style.css"/>
             </head>
             
             <body>
                 <header>
                     <nav class="navbar navbar-expand-lg bg-white fixed-top">
+                        <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
                         <div class="container-fluid">
                             <div class="collapse navbar-collapse text-dark" id="navbarNavDropdown">
                                 <ul class="navbar-nav">
@@ -31,9 +36,9 @@
                                             <strong>Ropa</strong>
                                         </a>
                                         <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item">Sudaderas</a></li>
-                                            <li><a class="dropdown-item">Camisetas</a></li>
-                                            <li><a class="dropdown-item">Pantalones</a></li>
+                                            <li><a class="dropdown-item" href="#" onclick="document.getElementById('sudadera').style = 'display:flex;'; document.getElementById('camiseta').style = 'display:none;' ; document.getElementById('pantalones').style = 'display:none;' ;">Sudaderas</a></li>
+                                            <li><a class="dropdown-item" href="#" onclick="document.getElementById('camiseta').style = 'display:flex;'; document.getElementById('sudadera').style = 'display:none;'; document.getElementById('pantalones').style = 'display:none;';">Camisetas</a></li>
+                                            <li><a class="dropdown-item" href="#" onclick="document.getElementById('pantalones').style = 'display:flex;'; document.getElementById('camiseta').style = 'display:none;'; document.getElementById('sudadera').style = 'display:none;';">Pantalones</a></li>
                                             
                                         </ul>
                                     </li>
@@ -81,7 +86,7 @@
                 </header>
                 <main>
                     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2500">
-                        <div class="carousel-inner mb-3">
+                        <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <img src="img/carousel1.png" class="d-block w-100" alt="..."/>
                             </div>
@@ -103,35 +108,60 @@
                             <span class="visually-hidden">Next</span>
                         </button>
                     </div>
-                    <div class="text-center">
-                        <h3><strong>EXPANDING TO THE WORLD</strong></h3>
-                    </div>
-                    <div class=" navbar-expand-sm bg-light">
-                        <div class="container justify-content-start mx-auto">
-                            <div>
-                                <a class="navbar-brand">
-                                    <img src="img/logonude.png" alt="" height="60px"/>
-                                </a>
+                    
+                    <div class="row mt-4 justify-content-center" id="camiseta">
+                        
+                        <xsl:for-each select="tienda/camiseta">
+                            <div class="col-xl-3 col-lg-4 mb-3 ">
+                                <div class="card rounded-0 border-0">
+                                    <img class="card-img-top " src="{foto}" alt=""/>
+                                    <div class="card-body ">
+                                        <h4 class="card-title text-center "><strong><xsl:value-of select="nombre"/></strong></h4>
+                                        <p class="card-text text-center"><xsl:value-of select="precio"/>€</p>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
+                        </xsl:for-each>
                     </div>
-                    <div class="row mt-1 mx-1 justify-content-center w-70 ">
+                    <div class="row mt-1 mx-1 justify-content-center w-70" id="sudadera">
                         <xsl:for-each select="tienda/sudadera">
-                            <div class="col-xl-3 col-md-6 mb-3 ">
-                                <div class="card rounded-0">
+                            <div class="col-xl-3 col-lg-4 col-md-6 mb-3 ">
+                                <div class="card rounded-0 border-0">
                                     <img class="card-img-top" src="{foto}" alt=""/>
-                                    <div class="card-body">
-                                        <h4 class="card-title "><strong><xsl:value-of select="nombre"/></strong></h4>
-                                        <p class="card-text"><xsl:value-of select="precio"/>€</p>
+                                    <div class="card-body ">
+                                        <h4 class="card-title text-center "><strong><xsl:value-of select="nombre"/></strong></h4>
+                                        <p class="card-text text-center"><xsl:value-of select="precio"/>€</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </xsl:for-each>
+                    </div> 
+                    <div class="row mt-1 mx-1 justify-content-center w-70" id="pantalones">
+                        <xsl:for-each select="tienda/pantalones">
+                            <div class="col-xl-3 col-lg-4 col-md-6 mb-3 ">
+                                <div class="card rounded-0 border-0">
+                                    <img class="card-img-top" src="{foto}" alt=""/>
+                                    <div class="card-body ">
+                                        <h4 class="card-title text-center "><strong><xsl:value-of select="nombre"/></strong></h4>
+                                        <p class="card-text text-center"><xsl:value-of select="precio"/>€</p>
                                     </div>
                                 </div>
                             </div>
                         </xsl:for-each>
                     </div>
                     
-                    
-                </main>
+                </main> 
                 <footer>
+                    <nav>
+                        <div class="card text-center">  
+                            <div class="card-body">
+                                <i class="fa fa-instagram fa-2x me-3" aria-hidden="true"></i>
+                                <i class="fa fa-facebook fa-2x me-3" aria-hidden="true"></i>
+                                <i class="fa fa-youtube fa-2x me-3" aria-hidden="true"></i>
+                                <i class="fa fa-twitter fa-2x me-3" aria-hidden="true"></i>   
+                            </div>
+                        </div>
+                    </nav>
                     <nav class="navbar navbar-expand-sm bg-warning">
                         <div class="container justify-content-center mx-auto">
                             <div class="col-xl-7 text-xl-center text-white">
@@ -139,15 +169,9 @@
                             </div>
                         </div>
                     </nav>
+                    
+                    
                 </footer>
-                
-                
-                
-                
-                
-                
-                
-                
                 
                 <!-- Bootstrap JavaScript Libraries -->
                 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
@@ -163,3 +187,4 @@
         
     </xsl:template>
 </xsl:stylesheet>
+
