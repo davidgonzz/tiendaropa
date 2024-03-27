@@ -21,7 +21,7 @@
             
             <body>
                 <header>
-                    <nav class="navbar navbar-expand-lg bg-white fixed-top">
+                    <nav class="navbar navbar-expand-lg bg-white fixed-top mt-0">
                         <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId"
                                 aria-expanded="false" aria-label="Toggle navigation">
@@ -37,7 +37,7 @@
                                         </a>
                                         <ul class="dropdown-menu">
                                             <li><a class="dropdown-item" href="#" onclick="document.getElementById('sudadera').style = 'display:flex;'; document.getElementById('camiseta').style = 'display:none;' ; document.getElementById('pantalones').style = 'display:none;' ;">Sudaderas</a></li>
-                                            <li><a class="dropdown-item" href="#" onclick="document.getElementById('camiseta').style = 'display:flex;'; document.getElementById('sudadera').style = 'display:none;'; document.getElementById('pantalones').style = 'display:none;';">Camisetas</a></li>
+                                            <li><a class="dropdown-item" href="#" onclick="document.getElementById('camiseta').style = 'display:flex;'; document.getElementById('sudadera').style = 'display:none;'; document.getElementById('pantalones').style = 'display:none;';">Camisas</a></li>
                                             <li><a class="dropdown-item" href="#" onclick="document.getElementById('pantalones').style = 'display:flex;'; document.getElementById('camiseta').style = 'display:none;'; document.getElementById('sudadera').style = 'display:none;';">Pantalones</a></li>
                                             
                                         </ul>
@@ -157,7 +157,7 @@
                             <div class="card-body">
                                 <i class="fa fa-instagram fa-2x me-3" aria-hidden="true"></i>
                                 <i class="fa fa-facebook fa-2x me-3" aria-hidden="true"></i>
-                                <i class="fa fa-youtube fa-2x me-3" aria-hidden="true"></i>
+                                <i class="fa fa-youtube-play fa-2x me-3" aria-hidden="true"></i>
                                 <i class="fa fa-twitter fa-2x me-3" aria-hidden="true"></i>   
                             </div>
                         </div>
